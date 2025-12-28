@@ -1,7 +1,7 @@
 # TODO List for Shell Project
 
 ## Missing Features
-- [ ] Implement simple tab completion / suggestions
-- [ ] Pipes, simple structures for shell scripting
-- [ ] Add more (more) built-in commands
-- [ ] Add more configs and clap entries.
+- PROJECT: Implement app_base for that crate, update dependencies and adapt to the latest rust edition;
+- Implement simple tab completion / suggestions;
+- Pipes, simple structures for shell scripting;
+- Add more built-in commands, configs and clap entries.
