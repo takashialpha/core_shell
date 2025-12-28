@@ -1,14 +1,12 @@
 [package]
 name = "core_shell"
 version = "0.3.0"
-edition = "2021"
-
-[package.metadata]
-description = "A fast, POSIX-like shell written in Rust."
+edition = "2024"
+description = "A fast, POSIX-like shell written in Rust"
 authors = ["takashialpha <takashialpha@protonmail.com>"]
 license = "Apache-2.0"
 
-[dependencies]
+[dependencies] # review that
 clap = { version = "4.5.37", features = ["derive", "env"] }
 rustyline = "15.0.0"
 shell-words = "1.1.0"
