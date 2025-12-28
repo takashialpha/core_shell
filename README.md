@@ -25,4 +25,4 @@ Huge thanks to the maintainers of the dependencies and the Rust ecosystem.
 
 ***
 
-core-shell readme 0.3.0 from core-shell 0.3.0
+core_shell readme 0.3.0 from core-shell 0.3.0
